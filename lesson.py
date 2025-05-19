@@ -1,8 +1,8 @@
-name="Aida"
-age=35
-adress="street Toktogul19"
-work= "LLC Daanazat Ordo"
-children= "Ahan,Nazym"
+name="Yulduz"
+age=37
+adress="street SalkynTor 67"
+work= "Meerim Nuru Kindergarten"
+children= "Nurdos, Nurel, Jomartbek, Hadicha"
 print(name)
 print(age)
 print(adress)
